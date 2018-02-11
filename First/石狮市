@@ -1,0 +1,3 @@
+Index([u'country', u'beer_servings', u'spirit_servings', u'wine_servings',
+       u'total_litres_of_pure_alcohol', u'continent'],
+      dtype='object')
